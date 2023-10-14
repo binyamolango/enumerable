@@ -115,7 +115,7 @@ No deployment have made yet.
 
 - Terminal App
 - Optimizing query time
-- Create database diagram
+- Create a database diagram
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -130,14 +130,14 @@ Feel free to check the [issues page]().
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project...
+If you like this project please give it a star.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank...
+We would like to thank Microverse.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
